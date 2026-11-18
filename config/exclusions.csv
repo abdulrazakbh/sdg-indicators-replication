@@ -1,0 +1,7 @@
+iso3,applies_to,rule,reason,status
+NPL,sbm;sbm_safe;sbm_incl_khm,concurrent_programme,National Sanitation and Hygiene Master Plan 2011-2017; ODF declared Sept 2019,confirmed
+IND,nepal_shmp,concurrent_programme,Swachh Bharat Mission (Grameen) from Oct 2014,confirmed
+KHM,sbm;sbm_safe;nepal_shmp,concurrent_programme,National Strategy for Rural Water Supply Sanitation and Hygiene 2011-2025 (universal rural sanitation and ODF by 2025; World Bank 2020),confirmed
+KEN,saubhagya;elec_2015;saubhagya_rural,concurrent_programme,Last Mile Connectivity Programme from 2015,confirmed
+RWA,saubhagya;elec_2015;saubhagya_rural,concurrent_programme,Electricity Access Rollout Programme from 2009; National Electrification Strategy 2016,confirmed
+ETH,saubhagya;elec_2015;saubhagya_rural,concurrent_programme,National Electrification Program from 2017; NEP 2.0 launched 2019,confirmed
